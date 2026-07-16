@@ -10,15 +10,19 @@
 
 📊 Data Analysis
 ## Skills
-- Python
-- SQL
-- Git & GitHub
-- NumPy
-- Pandas
-- HTML
-- CSS
-- Streamlit
-- FastAPI
+Python
+SQL
+Git & GitHub
+NumPy
+Pandas
+HTML
+CSS
+Streamlit
+FastAPI
+Data Structures
+Data analysis 
+Time management 
+Quick larner 
 
 📫 Contact :  9528768894
 
