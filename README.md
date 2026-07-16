@@ -9,6 +9,16 @@
 🗄 SQL
 
 📊 Data Analysis
+## Skills
+- Python
+- SQL
+- Git & GitHub
+- NumPy
+- Pandas
+- HTML
+- CSS
+- Streamlit
+- FastAPI
 
 📫 Contact :  9528768894
 
